@@ -11,3 +11,4 @@ The study of cuisines explores the top 10 cuisines across cities, the number of 
 Key insights reveal that online delivery and table booking increase customer engagement, certain franchises dominate nationally, and cuisine preferences differ by city. These results provide valuable guidance for improving restaurant services and targeting customer needs.
 
 Google Colab link - https://colab.research.google.com/drive/13eqxmc12MCC1ShiVu5bOAa97A34uK5Zv?usp=drive_link
+Tableau dashboard link - https://public.tableau.com/app/profile/vivek.kumar.gautam8485/viz/ZamatoMarketingDashboard/Dashboard
